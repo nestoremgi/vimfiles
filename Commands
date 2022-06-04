@@ -1,0 +1,41 @@
+This are some useful comands that Im now to improve my abiltiy using vim like my favorit editor line
+
+If you want start using vim just type on you shell and that's all maybe you can escape from this ()
+
+vim
+
+Haha is just a joke if you want to escape from vim remeber that vim has mode
+
+Command Mode
+Insert Mode -> type i
+Visual Mode -> type v
+Command Line mode -> type : with this commmand you can write some useful commands to use vim
+Open a file from vim
+
+But this you told how can I exit from here! Help!
+
+Dont worry is easiest that you think just write esc
+
+:i
+
+and dadada ! That's it.
+
+
+Now that you know how to exit maybe your relation with vim is more frindly, so maybe decide stay a little more
+
+so When you are working on vim and want to edit a file that exist or not you just need to write
+
+:edit <file> or  :edit ~/some/dir/file/that/you/got
+
+But what are you saying i dont want to edit Im a book man and I just want to read. so ?
+
+Here is your comman good man! From shell
+vim -R myfile.txt
+
+Well, you relized that use vim is not dificult how you think so here are some useful commands more
+
+Star to edit your file -> i 
+Save your changes :w
+Exit :q
+Exit without save :q!
+Save and exit :wq
